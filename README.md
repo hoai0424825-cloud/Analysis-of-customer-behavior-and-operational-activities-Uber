@@ -1,4 +1,3 @@
-# Analysis-of-customer-behavior-and-operational-activities-Uber
 # 🚗 Analysis of Customer Behavior and Operational Activities - Uber (2024)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
