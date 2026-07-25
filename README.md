@@ -68,7 +68,7 @@ Leverage the Uber trip operations dataset to analyze operations, revenue, cancel
 ## 🖼️ Power BI Dashboard Overview
 An interactive Power BI Dashboard was developed to visualize overall operations, revenue trends, booking statuses, cancellation metrics, and customer rating distributions.
 
-![Uber Operation Power BI Dashboard]([Uber - Power Bi.png](https://github.com/hoai0424825-cloud/Analysis-of-customer-behavior-and-operational-activities-Uber/blob/7362142608edc71aec2e8a77d25368d49d3e471d/Uber%20-%20Power%20Bi.png)) *(Power BI Operational Dashboard View)*
+![Uber Operation Power BI Dashboard](https://github.com/hoai0424825-cloud/Analysis-of-customer-behavior-and-operational-activities-Uber/blob/b1f670d7f9880a41478078af9dc4329efac6299a/Uber%20-%20Power%20Bi.png) *(Power BI Operational Dashboard View)*
 
 ---
 
